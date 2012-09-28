@@ -10,10 +10,10 @@ subtitle: "Design. Development. Digital Media."
 #
 # http://www.atomenabled.org/developers/syndication/atom-format-spec.php#element.feed
 #
-# author:
-#   name: Your Name
-#   uri: http://yourhomepage.com
-#   email: you@yourdomain.com
+author:
+   name: Carson Kahn
+   uri: http://carsonkahn.com
+   email: foobar360@carsonkahn.com
 
 # You can stick with the default look and feel, or use a theme. Themes are
 # easy to create or install, and live inside the themes directory. You
@@ -42,7 +42,7 @@ cache: false
 #     your actual content and the (optional) menu.txt file that links to your
 #     main category pages.
 #
-content: content-demo
+content: content
 
 # google_analytics_code
 #     Set this if you want Google Analytics to track traffic on your site.
